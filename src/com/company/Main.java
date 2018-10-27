@@ -21,7 +21,7 @@ public class Main {
             return barking;
         }
         //if none of the above, return false
-        return false;
+        return false;barking
 
     }
 }
